@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://web-fukuoka.github.io/Seikotuin-Demo/sitemap.xml
